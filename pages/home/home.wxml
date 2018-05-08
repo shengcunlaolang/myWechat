@@ -1,0 +1,2 @@
+<import src="search/search.wxml" />
+<template is="search"></template>

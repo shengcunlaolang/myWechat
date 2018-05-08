@@ -1,0 +1,9 @@
+<import src="move-item/move-item"/>
+<view>
+  <view>
+    <text>电影</text>
+    <text>更多</text>
+  </view>
+</view>
+
+<template is="movie-item"></template>>

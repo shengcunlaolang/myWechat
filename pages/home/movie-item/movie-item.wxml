@@ -1,0 +1,8 @@
+<import src="star/star.wxml"/>
+<template name="move-item">
+  <view class="move-item">
+    <image src="/images/spacerer.jpg"></image>
+    <text>太空旅客</text>
+    <template is="star"></template>  
+  </view>
+</template>

@@ -1,0 +1,2 @@
+@import "search/search.wxss";
+@import "star/star.wxss";
